@@ -30,6 +30,7 @@ p {
 
 img {
   width: 80%;
+  margin-bottom: 50px;
 }
 
 footer {
@@ -37,5 +38,18 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+
+}
+
+button{
+  background-color: #4ECCA3;
+  color: #EEEEEE;
+  padding: 3px 20px;
+  border-radius: 10%;
+  font-size: 2rem;
+  color: #f0f5f4;
+  font-family: 'Indie Flower', cursive;
+  display: block;
+  margin: auto;
 
 }
